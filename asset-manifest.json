@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ethan-lee-portfolio/static/css/main.a9abdd4b.css",
-    "main.js": "/ethan-lee-portfolio/static/js/main.54c9ebc6.js",
+    "main.css": "/ethan-lee-portfolio/static/css/main.ab29732d.css",
+    "main.js": "/ethan-lee-portfolio/static/js/main.fa008c50.js",
     "static/js/787.128fc6e9.chunk.js": "/ethan-lee-portfolio/static/js/787.128fc6e9.chunk.js",
     "static/media/home-page@3x.png": "/ethan-lee-portfolio/static/media/home-page@3x.89aa5253237b528c9502.png",
     "static/media/personal-portfolio@3x.png": "/ethan-lee-portfolio/static/media/personal-portfolio@3x.f05d5451749943b20fe9.png",
@@ -18,12 +18,12 @@
     "static/media/uc-san-diego@3x.png": "/ethan-lee-portfolio/static/media/uc-san-diego@3x.17575a4c7367e2b40084.png",
     "static/media/how-private-ru@3x.png": "/ethan-lee-portfolio/static/media/how-private-ru@3x.5914080db6ddf681cacb.png",
     "index.html": "/ethan-lee-portfolio/index.html",
-    "main.a9abdd4b.css.map": "/ethan-lee-portfolio/static/css/main.a9abdd4b.css.map",
-    "main.54c9ebc6.js.map": "/ethan-lee-portfolio/static/js/main.54c9ebc6.js.map",
+    "main.ab29732d.css.map": "/ethan-lee-portfolio/static/css/main.ab29732d.css.map",
+    "main.fa008c50.js.map": "/ethan-lee-portfolio/static/js/main.fa008c50.js.map",
     "787.128fc6e9.chunk.js.map": "/ethan-lee-portfolio/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a9abdd4b.css",
-    "static/js/main.54c9ebc6.js"
+    "static/css/main.ab29732d.css",
+    "static/js/main.fa008c50.js"
   ]
 }
