@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/ethan-lee-portfolio/static/css/main.a9abdd4b.css",
+    "main.js": "/ethan-lee-portfolio/static/js/main.54c9ebc6.js",
+    "static/js/787.128fc6e9.chunk.js": "/ethan-lee-portfolio/static/js/787.128fc6e9.chunk.js",
+    "static/media/home-page@3x.png": "/ethan-lee-portfolio/static/media/home-page@3x.89aa5253237b528c9502.png",
+    "static/media/personal-portfolio@3x.png": "/ethan-lee-portfolio/static/media/personal-portfolio@3x.f05d5451749943b20fe9.png",
+    "static/media/ucsd-zoo@3x.png": "/ethan-lee-portfolio/static/media/ucsd-zoo@3x.9707489b5e7f70f6713c.png",
+    "static/media/yonsei-university@3x.png": "/ethan-lee-portfolio/static/media/yonsei-university@3x.100d30a6953605322d7e.png",
+    "static/media/anheuser-busch@3x.png": "/ethan-lee-portfolio/static/media/anheuser-busch@3x.b2f1acf2c36f9c9561aa.png",
+    "static/media/uc-san-diego1@3x.png": "/ethan-lee-portfolio/static/media/uc-san-diego1@3x.23bb8ba73cc071d7e127.png",
+    "static/media/covid-infections-study@3x.png": "/ethan-lee-portfolio/static/media/covid-infections-study@3x.faad10d326c2b10dfa70.png",
+    "static/media/taxi-time-prediction@3x.png": "/ethan-lee-portfolio/static/media/taxi-time-prediction@3x.35e2c5fbbf4502cf6bd6.png",
+    "static/media/coding-minds-academy@3x.png": "/ethan-lee-portfolio/static/media/coding-minds-academy@3x.9f08a645d3528209b0ec.png",
+    "static/media/thomson-reuters@3x.png": "/ethan-lee-portfolio/static/media/thomson-reuters@3x.0dcb287d34f58d6a74f8.png",
+    "static/media/how-private-ru1@3x.png": "/ethan-lee-portfolio/static/media/how-private-ru1@3x.6447c4c69b05fe8cc483.png",
+    "static/media/roottech@3x.png": "/ethan-lee-portfolio/static/media/roottech@3x.d0375952b6cea4102b1e.png",
+    "static/media/uc-san-diego@3x.png": "/ethan-lee-portfolio/static/media/uc-san-diego@3x.17575a4c7367e2b40084.png",
+    "static/media/how-private-ru@3x.png": "/ethan-lee-portfolio/static/media/how-private-ru@3x.5914080db6ddf681cacb.png",
+    "index.html": "/ethan-lee-portfolio/index.html",
+    "main.a9abdd4b.css.map": "/ethan-lee-portfolio/static/css/main.a9abdd4b.css.map",
+    "main.54c9ebc6.js.map": "/ethan-lee-portfolio/static/js/main.54c9ebc6.js.map",
+    "787.128fc6e9.chunk.js.map": "/ethan-lee-portfolio/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9abdd4b.css",
+    "static/js/main.54c9ebc6.js"
+  ]
+}
