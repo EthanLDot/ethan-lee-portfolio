@@ -39,7 +39,7 @@ const HomePage: FunctionComponent = () => {
       </footer>
       <main className={styles.iMakeTechnologyCoolForEveWrapper}>
         <span className={styles.iMakeTechnology}>
-          I make technology cool for everyone.
+          Test change
         </span>
       </main>
       <CardContainer />
